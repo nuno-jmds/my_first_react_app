@@ -20,6 +20,10 @@ function ComponentThree() {
       <a className="a1" href="https://amzncloneapp2.web.app/">
         My Amazon Clone App
       </a>
+      <br></br>
+      <a className="a1" href="https://discordclone.web.app/">
+        My Discord Clone App
+      </a>
     </div>
   );
 }
